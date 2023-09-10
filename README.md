@@ -1,3 +1,1 @@
-# Local_library_project_thinkful
-# Local_library_project_thinkful
-# Local_library_project
+# Local library project for Thinkful
